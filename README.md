@@ -4,6 +4,12 @@
 
 I work with functional and API testing, Cypress automation in JavaScript, and GitHub Actions. My focus is finding meaningful failures, documenting how to reproduce them, and making test results useful to the team.
 
+## Featured project: [QA Lab](https://github.com/PedroHCastelani/qa-lab-open)
+
+**Same test coverage map, one less piece of evidence.** In a fictional free-shipping scenario, an intentional regression at the R$50 threshold makes a real test fail. Three of four scenarios still have linked tests, but the number with passing evidence drops from three to two.
+
+[Run the bilingual demo](https://github.com/PedroHCastelani/qa-lab-open/blob/master/docs/DEMO.md) · [See the reports](https://github.com/PedroHCastelani/qa-lab-open/blob/master/docs/EVIDENCE.md) · [GitHub Actions run](https://github.com/PedroHCastelani/qa-lab-open/actions/runs/44988404811)
+
 ## Explore the portfolio
 
 | Project | What to look for |
